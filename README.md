@@ -1,5 +1,7 @@
 # 🎮 Simon Says Pro
 
+Live Demo :- https://blink-dash-ten.vercel.app/
+
 A modern and interactive **Simon Says memory game** built using **HTML, CSS, and JavaScript**.
 Test your memory by repeating an ever-growing sequence of colors!
 
